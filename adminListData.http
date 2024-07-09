@@ -1,0 +1,8 @@
+POST http://localhost:3001/adminListTableCreateEx/
+
+###
+POST http://localhost:3001/insertAdminListDetailsEx/
+
+###
+
+GET http://localhost:3001/insertAdminListDetailsEx/
